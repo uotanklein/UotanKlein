@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔧 Сейчас работаю над Qanon Project в Garry's Mod.<br>📫 Связаться со мной: <br>   francferdinant2@gmail.com <br>   https://t.me/AdikVerhen<br><br>
-
+🔧 Сейчас работаю над Qanon Project в Garry's Mod.<br>📫 Связаться со мной: francferdinant2@gmail.com https://t.me/AdikVerhen<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uotanklein&hide=html,css&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Стек:
