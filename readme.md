@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔧 Сейчас работаю над Qanon Project в Garry's Mod.<br>📫 Связаться со мной: francferdinant2@gmail.com https://t.me/AdikVerhen<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uotanklein&hide=html,css&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uotanklein&hide=html,css&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 # 💻 Стек:
 ### Языки программирования
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,11 +34,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ### Мультимедиа и другие технологии
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-
 ### Дополнительные технологии и инструменты
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
