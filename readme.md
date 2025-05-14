@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 Сейчас работаю над Qanon Project в Garry's Mod.<br>📚 Изучаю Rust и C.<br>📫 Связаться со мной: <br>   francferdinant2@gmail.com <br>   https://t.me/AdikVerhen<br><br>
+🔧 Сейчас работаю над Qanon Project в Garry's Mod.<br>📫 Связаться со мной: <br>   francferdinant2@gmail.com <br>   https://t.me/AdikVerhen<br><br>
 
 
 # 💻 Tech Stack:
