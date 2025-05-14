@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔧 Сейчас работаю над Qanon Project в Garry's Mod.<br>📫 Связаться со мной: <br>   francferdinant2@gmail.com <br>   https://t.me/AdikVerhen<br><br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uotanklein&hide=html,css&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Стек:
 ### Языки программирования
@@ -50,5 +51,3 @@
 - ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 - ![Deno](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uotanklein&hide=html,css&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
